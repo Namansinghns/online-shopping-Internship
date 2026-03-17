@@ -38,6 +38,7 @@ Supports data-driven marketing strategies
 Reduces stockout risks and improves customer satisfaction
 
 Conclusion
+
 This project demonstrates end-to-end data analysis, from basic exploration to advanced business insights. 
 It highlights how data can be used to optimize operations and improve decision-making in the e-commerce domain.
 
